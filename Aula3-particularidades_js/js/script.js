@@ -13,8 +13,9 @@ console.log("Exemplo");
 
 // declara uma variável
 var a = 1;
-
+console.log(typeof(a));
 a = "teste";
+console.log(typeof(a));
 
 console.log(a); // Imprime "teste
 

@@ -31,7 +31,9 @@ document.write('Disse "ola"');
 var a = 2;
 var b = 2;
 
+
 var gg = nome + a + b;
+var gg = nome + (a + b);
 
 console.log(gg);
 console.log(typeof gg);
